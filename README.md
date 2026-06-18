@@ -1,4 +1,9 @@
 # InfoLoop: Escape the Algorithm
+## 🎮 PLAY THE GAME ONLINE
+
+👉 **[CLICK HERE TO PLAY InfoLoop: Escape the Algorithm](https://marijagj4.github.io/InfoLoop-Escape-The-Algorithm/)**
+
+---
 
 ## Идеја и мотив позади играта
 
